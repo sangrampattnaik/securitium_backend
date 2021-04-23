@@ -1,4 +1,4 @@
-# Securitium Back End Test API  Management System
+# Securitium Back End Test API
 
  Note - 1: python 3.8 or above should be installed
 
@@ -38,7 +38,7 @@ runserver <br >
 or <br >
 `python manage.py runserver`
 
-## step - 8
+## step - 7
 swagger documentaion <br >
 `http://127.0.0.1:8000/swagger/`
 
